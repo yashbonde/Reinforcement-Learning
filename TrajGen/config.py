@@ -1,7 +1,7 @@
 '''
 config.py
 
-@yashbonde - 01.02.2019
+@yashbonde - 02.02.2019
 '''
 
 class Config():
